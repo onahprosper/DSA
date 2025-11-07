@@ -1,11 +1,3 @@
-"""
-Kruskal's Minimum Spanning Tree Algorithm - Minimal Version
-Simple implementation without classes, just the core algorithm
-
-Author: Student
-Date: November 7, 2025
-"""
-
 from typing import List, Tuple, Dict, Union
 import matplotlib.pyplot as plt
 import networkx as nx
